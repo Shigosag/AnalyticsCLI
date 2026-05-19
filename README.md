@@ -24,6 +24,7 @@ It allows you to **analyze**, **clean**, and **visualize** CSV, Excel, or JSON d
 ```bash
 git clone https://github.com/Shigosag/AnalyticsCLI.git
 cd AnalyticsCLI
+```bash
 
 ## Create a virtual environment and install dependencies
 python -m venv venv
