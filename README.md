@@ -20,7 +20,7 @@ It allows you to **analyze**, **clean**, and **visualize** CSV, Excel, or JSON d
 
 ## Installation
 
-### Clone the repository
+## Clone the repository
 ```bash
 git clone https://github.com/Shigosag/AnalyticsCLI.git
 cd AnalyticsCLI
