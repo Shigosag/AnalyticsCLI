@@ -27,20 +27,28 @@ cd AnalyticsCLI
 ```
 
 ## Create a virtual environment and install dependencies
+```bash
 python -m venv venv
+```
 
 # Windows
+```bash
 venv\Scripts\activate
+```
 # Linux/Mac
+```bash
 source venv/bin/activate
+```
 
+```bash
 pip install -r requirements.txt
+```
 
 ## Usage
 
+```bash
 python -m app.main path/to/your/data.csv
-
----
+```
 
 ## Dependencies
 
@@ -55,7 +63,6 @@ python -m app.main path/to/your/data.csv
 - duckdb
 - loguru
 
----
 
 ## Author & Credits
 
