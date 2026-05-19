@@ -1,0 +1,16 @@
+pandas
+polars
+duckdb
+typer[all]
+rich
+textual
+matplotlib
+seaborn
+openpyxl
+pydantic
+python-dotenv
+loguru
+plotext
+plotly
+reportlab
+sqlalchemy
