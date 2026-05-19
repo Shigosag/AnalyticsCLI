@@ -39,6 +39,8 @@ pip install -r requirements.txt
 
 python -m app.main path/to/your/data.csv
 
+---
+
 ## Dependencies
 
 - Python 3.12+
@@ -51,6 +53,8 @@ python -m app.main path/to/your/data.csv
 - typer
 - duckdb
 - loguru
+
+---
 
 ## Author & Credits
 
