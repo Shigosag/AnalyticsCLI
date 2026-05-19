@@ -26,8 +26,8 @@ git clone https://github.com/Shigosag/AnalyticsCLI.git
 cd AnalyticsCLI
 
 ## Create a virtual environment and install dependencies
-
 python -m venv venv
+
 # Windows
 venv\Scripts\activate
 # Linux/Mac
