@@ -18,6 +18,37 @@ It allows you to **analyze**, **clean**, and **visualize** CSV, Excel, or JSON d
 
 ---
 
+## Project Structure
+
+```txt
+AnalyticsCLI/
+│
+├── app/
+│   ├── __init__.py
+│   ├── main.py
+│   ├── loader_service.py
+│   ├── profiling_service.py
+│   ├── cleaning_service.py
+│   ├── visualization_service.py
+│   ├── export_service.py
+│   ├── database/
+│   │   ├── duckdb_manager.py
+│   └── ui/
+│       ├── banner.py
+│       ├── menu.py
+│       ├── progress.py
+│       └── tables.py
+│
+├── data/             # Optional sample datasets
+├── exports/          # Output folder for CSV/Excel/PDF
+├── logs/             # Logs
+├── requirements.txt
+├── .env
+├── .gitignore
+├── README.md
+└── LICENSE
+```
+
 ## Installation
 
 ## Clone the repository
