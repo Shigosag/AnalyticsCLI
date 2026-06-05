@@ -88,6 +88,13 @@ python -m app.main path/to/your/data.csv
 python -m app.main data/sample/MOCK_DATA.csv
 ```
 
+## Screenshots
+![Banner](screenshot/Clipboard_06-05-2026_01.jpg)
+![Analysis](screenshot/Clipboard_06-05-2026_02.jpg)
+![Analysis](screenshot/Clipboard_06-05-2026_03.jpg)
+![Analysis](screenshot/Clipboard_06-05-2026_04.jpg)
+![Export](screenshot/Clipboard_06-05-2026_05.jpg)
+
 ## Dependencies
 
 - Python 3.12+
