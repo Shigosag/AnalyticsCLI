@@ -82,6 +82,12 @@ pip install -r requirements.txt
 python -m app.main path/to/your/data.csv
 ```
 
+### Example with included sample dataset
+
+```bash
+python -m app.main data/sample/MOCK_DATA.csv
+```
+
 ## Dependencies
 
 - Python 3.12+
