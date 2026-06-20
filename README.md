@@ -51,6 +51,9 @@ AnalyticsCLI/
 
 ## Installation
 
+## Requirements
+- Python 3.12+
+  
 ## Clone the repository
 ```bash
 git clone https://github.com/Shigosag/AnalyticsCLI.git
@@ -71,7 +74,7 @@ venv\Scripts\activate
 source venv/bin/activate
 ```
 
-## Install requirements
+## Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
