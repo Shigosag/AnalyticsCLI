@@ -51,7 +51,7 @@ AnalyticsCLI/
 
 ## Installation
 
-## Requirements
+## Prerequisites
 - Python 3.12+
   
 ## Clone the repository
@@ -74,7 +74,7 @@ venv\Scripts\activate
 source venv/bin/activate
 ```
 
-## Install dependencies
+## Install requirements
 ```bash
 pip install -r requirements.txt
 ```
