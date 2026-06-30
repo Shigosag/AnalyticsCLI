@@ -111,15 +111,15 @@ python -m app.main data/sample/MOCK_DATA.csv
 
 | CLI Dashboard |
 | :---: |
-| ![CLI Dashboard](screenshots/banner.png) |
+| ![CLI Dashboard](screenshot/banner.png) |
 
 | Data Profiling |
 | :---: | :---: |
-| ![Profiling](screenshots/profile.png) | ![Profiling](screenshots/profile2.png) |
+| ![Profiling](screenshot/profile.png) | ![Profiling](screenshot/profile2.png) |
 
 | Visualization Charts | Export Results |
 | :---: | :---: |
-| ![Charts](screenshots/charts.png) | ![Exports](screenshots/exports.png) |
+| ![Charts](screenshot/charts.png) | ![Exports](screenshot/exports.png) |
 
 ## Dependencies
 
