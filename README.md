@@ -1,6 +1,6 @@
 # AnalyticsCLI – Modern Data Analyst Tool
 
-[![Python](https://img.shields.io/badge/python-3.12+-blue)](https://www.python.org/) 
+[![Python](https://img.shields.io/badge/python-3.12+-blue)](https://www.python.org/)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Description
