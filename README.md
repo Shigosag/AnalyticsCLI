@@ -14,14 +14,14 @@ It allows you to **analyze**, **clean**, and **visualize** CSV, Excel, or JSON d
 </div>
 
 **Timestamps:**
-- **0:00** - Launch CLI tool & banner
-- **0:20** - Load sample dataset (CSV/Excel/JSON)
-- **0:40** - Data profiling (summary statistics)
-- **1:10** - Cleaning process (duplicates & missing values)
-- **2:10** - SQL query output
-- **2:40** - Visualization charts
-- **1:40** - Export results (CSV, Excel, PDF)
-- **0:59** - GitHub Repository Overview
+- **0:00** - Load sample dataset (CSV/Excel/JSON)
+- **0:50** - Launch CLI tool & banner
+- **0:59** - Data profiling (summary statistics)
+- **1:01** - Cleaning process (duplicates & missing values)
+- **1:06** - SQL query output
+- **1:24** - Visualization charts
+- **1:55** - Export results (CSV, Excel, PDF)
+- **2:35** - GitHub Repository Overview
 
 ---
 
