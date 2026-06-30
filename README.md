@@ -109,7 +109,7 @@ python -m app.main data/sample/MOCK_DATA.csv
 
 ## 🖼️ Interface Preview
 
-| CLI Dashboard |
+| CLI Dashboard & Data Profiling |
 | :---: |
 | ![CLI Dashboard](screenshot/banner.png) |
 
