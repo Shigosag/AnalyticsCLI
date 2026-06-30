@@ -7,6 +7,22 @@
 AnalyticsCLI is a **production-ready command-line tool** for data analysts.  
 It allows you to **analyze**, **clean**, and **visualize** CSV, Excel, or JSON datasets quickly, and export reports to CSV, Excel, and PDF.
 
+## 🎥 AnalyticsCLI Demo & Walkthrough
+
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/fc592533-284b-495e-9bd9-b7bb0db27357" width="100%" controls></video>
+</div>
+
+**Timestamps:**
+- **0:00** - Launch CLI tool & banner
+- **0:20** - Load sample dataset (CSV/Excel/JSON)
+- **0:40** - Data profiling (summary statistics)
+- **1:10** - Cleaning process (duplicates & missing values)
+- **2:10** - SQL query via DuckDB
+- **2:40** - Visualization charts
+- **1:40** - Export results (CSV, Excel, PDF)
+- **0:59** - GitHub Repository Overview
+
 ---
 
 ## Features
@@ -91,12 +107,19 @@ python -m app.main path/to/your/data.csv
 python -m app.main data/sample/MOCK_DATA.csv
 ```
 
-## Screenshots
-![Banner](screenshot/Clipboard_06-05-2026_01.jpg)
-![Analysis](screenshot/Clipboard_06-05-2026_02.jpg)
-![Analysis](screenshot/Clipboard_06-05-2026_03.jpg)
-![Analysis](screenshot/Clipboard_06-05-2026_04.jpg)
-![Export](screenshot/Clipboard_06-05-2026_05.jpg)
+## 🖼️ Interface Preview
+
+| CLI Dashboard |
+| :---: |
+| ![CLI Dashboard](screenshots/banner.png) |
+
+| Data Profiling |
+| :---: | :---: |
+| ![Profiling](screenshots/profile.png) | ![Profiling](screenshots/profile2.png) |
+
+| Visualization Charts | Export Results |
+| :---: | :---: |
+| ![Charts](screenshots/charts.png) | ![Exports](screenshots/exports.png) |
 
 ## Dependencies
 
