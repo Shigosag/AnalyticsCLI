@@ -18,7 +18,7 @@ It allows you to **analyze**, **clean**, and **visualize** CSV, Excel, or JSON d
 - **0:20** - Load sample dataset (CSV/Excel/JSON)
 - **0:40** - Data profiling (summary statistics)
 - **1:10** - Cleaning process (duplicates & missing values)
-- **2:10** - SQL query via DuckDB
+- **2:10** - SQL query output
 - **2:40** - Visualization charts
 - **1:40** - Export results (CSV, Excel, PDF)
 - **0:59** - GitHub Repository Overview
@@ -113,13 +113,13 @@ python -m app.main data/sample/MOCK_DATA.csv
 | :---: |
 | ![CLI Dashboard](screenshot/banner.png) |
 
-| Data Profiling |
+| Query Output 1 | Query Output 2 |
 | :---: | :---: |
-| ![Profiling](screenshot/profile.png) | ![Profiling](screenshot/profile2.png) |
+| ![SQL Result 1](screenshot/sql1.png) | ![SQL Result 2](screenshot/sql2.png) |
 
 | Visualization Charts | Export Results |
 | :---: | :---: |
-| ![Charts](screenshot/charts.png) | ![Exports](screenshot/exports.png) |
+| ![Charts](screenshot/charts.png) | ![Exports](screenshot/export.png) |
 
 ## Dependencies
 
