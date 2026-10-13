@@ -36,6 +36,8 @@ It allows you to **analyze**, **clean**, and **visualize** CSV, Excel, or JSON d
 
 ## Project Structure
 
+[![Architecture Diagram](https://img.shields.io/badge/View-GitDiagram-blue)](https://gitdiagram.com/Shigosag/AnalyticsCLI)
+
 ```txt
 AnalyticsCLI/
 │
